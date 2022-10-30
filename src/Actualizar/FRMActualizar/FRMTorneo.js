@@ -5,7 +5,8 @@ function FRMTorneo(props) {
   return (
     <div className={`form-control ${css.div_principal_actualizar}`}>
       <h2>Torneos Relampagos</h2>
-      <form>
+      <form
+      className={css.Datos}>
         {/* <label for='id'>Codigo:  </label><input id = 'id' type = 'text' placeholder='Indique el codigo del torneo' className={css.inputActualizar}/><br/> --> */}
         <label for="nombre">Nombre: </label>
         <input

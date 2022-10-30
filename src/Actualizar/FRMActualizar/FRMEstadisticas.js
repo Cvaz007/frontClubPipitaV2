@@ -5,7 +5,9 @@ function FRMEstadisticas(props) {
   return (
     <div className={`form-control ${css.div_principal_actualizar}`}>
       <h2>Jugador</h2>
-      <form>
+      <form
+      className={css.Datos}>
+
         <label for="cantAmarrillas">Cantidad amarrillas: </label>
         <input
           id="cantAmarrillas"

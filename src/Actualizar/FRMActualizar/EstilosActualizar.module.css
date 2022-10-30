@@ -8,7 +8,10 @@
     margin-top: 10%;
     background-color: rgb(169, 169, 169, 0.5);
     width: 30%;
-    height: 30%;
-    margin-left:37% ;
-    margin-right: 45%;
+    height: auto;
+    margin-left: 35%;
+}
+
+.Datos{
+    display: grid;
 }
