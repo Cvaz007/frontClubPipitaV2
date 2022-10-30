@@ -1,0 +1,36 @@
+.Titulos{
+    font-size: 40px;
+    font-weight: bolder;
+    width: 900px;
+    background-color: limegreen;
+    margin: auto;
+    color: aliceblue;
+}
+
+.texto1{
+    width: 900px;
+    margin: auto;
+    text-align:justify;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Titulos2{
+    font-size: 40px;
+    font-weight: bolder;
+    width: 400px;
+    background-color: limegreen;
+    margin: auto;
+    color: aliceblue;
+}
+
+.texto2{
+    width: 400px;
+    margin: auto;
+    text-align:justify;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.centrar{
+    margin-left:15%;
+    column-count:2;
+}

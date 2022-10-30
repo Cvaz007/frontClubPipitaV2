@@ -1,0 +1,22 @@
+[
+    {
+        "codigo":1,
+        "fechainicio":"20-nov-2022",
+        "fechafinal":"16-dic-2022."
+    },
+    {
+        "codigo":2,
+        "fechainicio":"15-feb-2023",
+        "fechafinal":"19-mar-2023."
+    },
+    {
+        "codigo":3,
+        "fechainicio":"20-abr-2023",
+        "fechafinal":"16-may-2023."
+    },
+    {
+        "codigo":4,
+        "fechainicio":"15-jun-2023",
+        "fechafinal":"19-jul-2023."
+    }
+]

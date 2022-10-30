@@ -1,0 +1,28 @@
+{
+    "imagenesCarousel":[
+        {
+            "id":"1",
+            "url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Football_in_Bloomington%2C_Indiana%2C_1996.jpg"
+        },
+        {
+            "id":"2",
+            "url":"https://definicion.de/wp-content/uploads/2009/03/futbolistas.jpg"
+        },
+        {
+            "id":"3",
+            "url":"https://ichef.bbci.co.uk/news/640/cpsprodpb/5D0D/production/_91012832_thinkstockphotos-77735781.jpg"
+        },
+        {
+            "id":"4",
+            "url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Football_in_Bloomington%2C_Indiana%2C_1996.jpg"
+        },
+        {
+            "id":"5",
+            "url":"https://definicion.de/wp-content/uploads/2009/03/futbolistas.jpg"
+        },
+        {
+            "id":"6",
+            "url":"https://ichef.bbci.co.uk/news/640/cpsprodpb/5D0D/production/_91012832_thinkstockphotos-77735781.jpg"
+        }
+    ]
+}

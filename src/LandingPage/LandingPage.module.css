@@ -1,0 +1,55 @@
+.contenedorLanding{
+    justify-content: center;
+    font-style: italic;
+}
+
+.Bienvenida{
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 3%;
+}
+
+.texto{
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(87, 86, 86);
+    width: 40%;
+}
+
+.texto span{
+    font-weight: bolder;
+}
+
+.imagenes{
+    width: 40%;
+    justify-content: center;
+}
+
+.contenedorCarousel{
+    justify-content: center;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.Titulos{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.ContenedorResultados{
+    color: white;
+    margin-top: 5%;
+    padding-bottom: 5%;
+    background-color: rgb(81, 85, 81);
+    border-radius: 25px 25px 0 0;
+}
+
+.FaseDeGrupos{
+    background-color: white;
+    color: black;
+}
+
+@media (max-width:708px) {
+   
+}

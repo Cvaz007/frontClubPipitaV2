@@ -1,0 +1,65 @@
+.fondo{
+    height: 100vh;
+    background-color: rgba(255, 255, 255, 0.808);
+    background-blend-mode: color;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('../Img/Pipita644px.PNG');
+}
+
+.contenedorInicioSesion{
+    width: 50%;
+    height: 60%;
+    margin-left: 25%;
+    margin-top: 10%;
+    position:absolute;
+}
+
+.TituloInicioSesion{
+    font-weight: bolder;
+}
+
+.InfoSesion{
+    display: grid;
+    width: 100%;
+    margin-top: 10%;
+    text-align: left;
+    justify-content: center;
+}
+
+.Usuario{
+    font-weight: 600;
+}
+
+.Contrasena{
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.ContenedorUserName{
+    margin-top: 10px;
+    width: 100%;
+}
+
+.ContenedorPassword{
+    margin-top: 10px;
+    width: 100%;
+}
+
+.InputUsuario{
+    width: 100%;
+    background-color: white;
+}
+
+.InputContrasena{
+    background-color: white;
+    width: 100%;
+}
+
+.boton{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+}
