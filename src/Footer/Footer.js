@@ -22,7 +22,7 @@ function Footer(props){
         </li>
 
         <li>
-          <a href="#">Vision</a>
+          <a href="#">Vision de quienes somos</a>
         </li>
             
         <li>
