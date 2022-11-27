@@ -4,7 +4,7 @@ import css from "./Consulta.module.css"
 
 function Consulta(props) {
     return (
-        <div>
+        <div className={css.generalall}>
             <div className={css.titulo}>Consultar</div>
             <div className={css.ContenedorBotones}>
                 <nav>
